@@ -1,0 +1,24 @@
+{
+  "name": "slack-to-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlhorwitz/slack-to-csv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlhorwitz/slack-to-csv/issues"
+  },
+  "homepage": "https://github.com/rlhorwitz/slack-to-csv#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "luxon": "^1.25.0"
+  }
+}
